@@ -102,7 +102,10 @@
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+**Currently WIP...**
 <!-- BLOG-POST-LIST:END -->  
+
+## What's playing on my Spotify Playlist 🎶
 
 <br/>  
 
@@ -110,6 +113,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
+----
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ctg123&&style=flat-square" align="center" />
 </div>  
@@ -120,5 +124,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <div align="center"></div>
 <br />
 
-----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
