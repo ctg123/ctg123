@@ -12,7 +12,7 @@
 - ❓ Ask me about anything related to Python automation and related technologies  
   
 
-- ⚡ Fun fact: I am big book nerd and sports fan! 📚⚾  
+- ⚡ Fun fact: I'm a big book nerd and sports fan! 📚⚾  
   
 
 <br/>  
