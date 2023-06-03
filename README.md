@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://media.licdn.com/dms/image/C5616AQFPDzK01z1Niw/profile-displaybackgroundimage-shrink_350_1400/0/1631372897419?e=1681948800&v=beta&t=i59_D6Atqc_CGdTwdZOYURdOfzFWhgLqGY-Qs9RFWOA" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">I'm Chaance Graves 👨🏿‍🦲, an Applications Engineer working in the Semiconductor industry since 2017 🚀</div>  
   
@@ -103,14 +99,6 @@
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 **Currently WIP...**
 <!-- BLOG-POST-LIST:END -->  
-
-## What's playing on my Spotify Playlist 🎶
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=chaanceg123&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true" /></div>  
-
-<br/>  
 
 ----
 <div align="center">
