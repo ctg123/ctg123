@@ -1,5 +1,5 @@
 
-### <div align="center">I'm Chaance Graves 👨🏿‍🦲, an Applications Engineer working in the Semiconductor industry since 2017 🚀</div>  
+### <div align="center">Chaance Graves 🚀</div>  
   
 
 - 💡I’m currently learning more about Systems Engineering, and DevOps  
